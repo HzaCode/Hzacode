@@ -37,7 +37,7 @@ A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodrea
 
 ### [Clinical NLP](https://github.com/HzaCode/ClinNLP)
 
-A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs).  While this repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
+A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs).This repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
 <br clear="left"/>
 
 ---

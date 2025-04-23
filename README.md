@@ -55,7 +55,7 @@ An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tu
 
 ### [SQL for Clinical Insights](https://github.com/HzaCode/emr-sql-queries-demo)
 
-A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze simulated Electronic Medical Record (EMR) data and answer specific clinical research questions.
+A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze Electronic Medical Record (EMR) data and answer specific clinical research questions.
 <br clear="left"/>
 
 ---

@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Ang
 
-Leveraging my background in medicine, I am passionate about applying technology to healthcare challenges. My work often spans areas like health-tech, data analysis, MedAI, and creating useful utilities.
+Leveraging my background in medicine, I am passionate about applying technology to healthcare challenges. My work often spans areas like health-tech, data analysis, MedAI, and creating useful utilities born from this intersection.
 
 Here are some of the projects I've been working on:
 

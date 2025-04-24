@@ -1,3 +1,5 @@
+
+
 # Hi there 👋, I'm Ang
 
 Leveraging my background in medicine, I am passionate about applying technology to healthcare challenges. My work often spans areas like health-tech, data analysis, MedAI, and creating useful utilities.
@@ -19,7 +21,7 @@ A Python library designed for streamlined, cached, and validated access to chemi
 
 ### [Athlytics](https://github.com/HzaCode/Athlytics)
 
-An R package for analyzing athletic performance and training load data directly from the Strava API. Calculates key metrics (TSS, ACWR, EF, etc.) and generates insightful visualizations.
+An R package for analyzing athletic performance and training load data directly from the Strava API. Calculates key metrics (TSS, ACWR, EF, etc.) and generates insightful visualizations **to help optimize training and monitor physiological load**.
 <br clear="left"/>
 
 ---
@@ -28,7 +30,7 @@ An R package for analyzing athletic performance and training load data directly 
 
 ### [Goodreads Smart Sorter](https://github.com/HzaCode/goodreads-smart-sorter) ([Chrome Extension](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb))
 
-A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodreads by adding an IMDb-style weighted rating sort option, providing more nuanced book rankings based on both rating and popularity.
+A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodreads by adding an IMDb-style weighted rating sort option, providing more nuanced book rankings based on both rating and popularity – **an application of weighted algorithms for better information ranking**.
 <br clear="left"/>
 
 ---
@@ -37,7 +39,7 @@ A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodrea
 
 ### [Clinical NLP](https://github.com/HzaCode/ClinNLP)
 
-A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs).This repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
+A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs), **addressing the challenge of extracting critical safety information from unstructured records**. This repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
 <br clear="left"/>
 
 ---
@@ -46,7 +48,7 @@ A Python framework demonstrating a pipeline for processing clinical text to pred
 
 ### [Pharmacopoeia RAG](https://github.com/HzaCode/ChinaPharma_Consulting)
 
-An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tuned LLM. Designed to answer questions based on pharmacopoeia documents by leveraging a vector knowledge base.
+An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tuned LLM. Designed to answer questions based on pharmacopoeia documents by leveraging a vector knowledge base, **tackling the need for efficient information retrieval from dense, specialized medical texts**.
 <br clear="left"/>
 
 ---
@@ -55,7 +57,7 @@ An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tu
 
 ### [SQL for Clinical Insights](https://github.com/HzaCode/emr-sql-queries-demo)
 
-A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze Electronic Medical Record (EMR) data and answer specific clinical research questions.
+A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze Electronic Medical Record (EMR) data and answer specific clinical research questions, **demonstrating how to query structured health data for meaningful patterns**.
 <br clear="left"/>
 
 ---
@@ -64,7 +66,7 @@ A collection of examples showcasing advanced SQL techniques (window functions, r
 
 ### [De Pelicula](https://github.com/HzaCode/de-pelicula)
 
-A fun web application (Flask/Python backend, JS frontend) that helps users practice Spanish pronunciation using memorable movie quotes, complete with audio playback. ([Live Demo](https://hezhiang.com/depelicula))
+A fun web application (Flask/Python backend, JS frontend) that helps users practice Spanish pronunciation using memorable movie quotes, complete with audio playback. ([Live Demo](https://hezhiang.com/depelicula)) **A practical exercise in full-stack development and API usage.**
 <br clear="left"/>
 
 ---

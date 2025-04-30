@@ -36,6 +36,20 @@ An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tu
 
 ---
 
+
+<img src="https://raw.githubusercontent.com/HzaCode/ClinNLP/refs/heads/main/logo.png" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
+
+### [Clinical NLP](https://github.com/HzaCode/ClinNLP)
+
+A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs), **addressing the challenge of extracting critical safety information from unstructured records**. This repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
+<br clear="left"/>
+
+
+
+
+---
+
+
 <img src="https://raw.githubusercontent.com/HzaCode/emr-sql-queries-demo/refs/heads/main/logo.png" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
 
 ### [SQL for Clinical Insights](https://github.com/HzaCode/emr-sql-queries-demo)

@@ -58,24 +58,6 @@ A collection of examples showcasing advanced SQL techniques (window functions, r
 <br clear="left"/>
 
 ---
-<img src="https://github.com/HzaCode/goodreads-smart-sorter/blob/main/logo.jpg?raw=true" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
-
-### [Goodreads Smart Sorter](https://github.com/HzaCode/goodreads-smart-sorter) ([Chrome Extension](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb))
-
-A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodreads by adding an IMDb-style weighted rating sort option, providing more nuanced book rankings based on both rating and popularity – **an application of weighted algorithms for better information ranking**.
-<br clear="left"/>
-
-
----
-
-<img src="https://github.com/HzaCode/de-pelicula/blob/main/demo.jpg?raw=true" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
-
-### [De Pelicula](https://github.com/HzaCode/de-pelicula)
-
-A fun web application (Flask/Python backend, JS frontend) that helps users practice Spanish pronunciation using memorable movie quotes, complete with audio playback. ([Live Demo](https://hezhiang.com/depelicula)) **A practical exercise in full-stack development and API usage.**
-<br clear="left"/>
-
----
 
 📫 **Connect with me:**
 

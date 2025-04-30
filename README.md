@@ -26,23 +26,6 @@ An R package for analyzing athletic performance and training load data directly 
 
 ---
 
-<img src="https://github.com/HzaCode/goodreads-smart-sorter/blob/main/logo.jpg?raw=true" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
-
-### [Goodreads Smart Sorter](https://github.com/HzaCode/goodreads-smart-sorter) ([Chrome Extension](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb))
-
-A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodreads by adding an IMDb-style weighted rating sort option, providing more nuanced book rankings based on both rating and popularity – **an application of weighted algorithms for better information ranking**.
-<br clear="left"/>
-
----
-
-<img src="https://raw.githubusercontent.com/HzaCode/ClinNLP/refs/heads/main/logo.png" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
-
-### [Clinical NLP](https://github.com/HzaCode/ClinNLP)
-
-A Python framework demonstrating a pipeline for processing clinical text to predict Serious Adverse Events (SAEs), **addressing the challenge of extracting critical safety information from unstructured records**. This repository currently serves as a foundational demonstration, which is intended as a starting point for future development into comprehensive resources for the clinical NLP community.
-<br clear="left"/>
-
----
 
 <img src="https://raw.githubusercontent.com/HzaCode/ChinaPharma_Consulting/refs/heads/main/logo.png" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
 
@@ -59,6 +42,15 @@ An AI/ML system implementing Retrieval-Augmented Generation (RAG) with a fine-tu
 
 A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze Electronic Medical Record (EMR) data and answer specific clinical research questions, **demonstrating how to query structured health data for meaningful patterns**.
 <br clear="left"/>
+
+---
+<img src="https://github.com/HzaCode/goodreads-smart-sorter/blob/main/logo.jpg?raw=true" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
+
+### [Goodreads Smart Sorter](https://github.com/HzaCode/goodreads-smart-sorter) ([Chrome Extension](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb))
+
+A Chrome Extension, **available on the Chrome Web Store**, that enhances Goodreads by adding an IMDb-style weighted rating sort option, providing more nuanced book rankings based on both rating and popularity – **an application of weighted algorithms for better information ranking**.
+<br clear="left"/>
+
 
 ---
 

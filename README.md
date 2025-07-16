@@ -46,17 +46,6 @@ A Python framework demonstrating a pipeline for processing clinical text to pred
 
 
 
-
----
-
-
-<img src="https://raw.githubusercontent.com/HzaCode/emr-sql-queries-demo/refs/heads/main/logo.png" width="120" align="left" style="margin-right: 20px; margin-bottom: 10px;"/>
-
-### [SQL for Clinical Insights](https://github.com/HzaCode/emr-sql-queries-demo)
-
-A collection of examples showcasing advanced SQL techniques (window functions, rule-based logic) to analyze Electronic Medical Record (EMR) data and answer specific clinical research questions, **demonstrating how to query structured health data for meaningful patterns**.
-<br clear="left"/>
-
 ---
 
 📫 **Connect with me:**

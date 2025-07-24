@@ -1,4 +1,3 @@
-
 I am committed to leveraging my medical expertise to innovate at the intersection of healthcare and technology. I create robust tools and intelligent systems that empower researchers, clinicians, and athletes by transforming complex data into actionable insights.
 
 Here are some of the projects I've been working on:

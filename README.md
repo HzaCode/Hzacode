@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
 
 ### [ChemInformant](https://github.com/HzaCode/ChemInformant)
 
-A Python library designed for streamlined, cached, and validated access to chemical data from the PubChem database. Makes fetching compound info easy and efficient. **Achieving over 2,000 downloads just days after its PyPI launch in this niche area.**
+A robust Python engine for PubChem, delivering analysis-ready chemical data through an intelligent, cached, and validated interface—**designed for seamless integration into scientific workflows.**
 <br clear="left"/>
 
 ---

@@ -14,7 +14,7 @@ I am committed to leveraging my medical expertise to innovate at the intersectio
 
 ## 🧱 Tools/Infra 
 ![Backend/APIs](https://img.shields.io/badge/Backend%2FAPIs-FastAPI%20%7C%20SQL%20%7C%20Docker-teal)
-![Web](https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-informational)
+![Web & Scraping](https://img.shields.io/badge/Web-HTML%2FCSS%2FJS%20%7C%20🕷️-informational)
 ![Publishing & Docs](https://img.shields.io/badge/Docs-LaTeX%20%7C%20Sphinx%20%7C%20Read%20the%20Docs-important)
 
 <sub>※ Main stack I use across projects.</sub>
